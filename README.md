@@ -130,3 +130,5 @@ Olá! Meu nome é Felipe Godoy, tenho 20 anos e sou natural de São Paulo. Concl
 </p>
 
 ![snake gif](https://github.com/felipedegodoy16/felipedegodoy16/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=felipedegodoy16&repo=felipedegodoy16&theme=react)](https://github.com/felipedegodoy16/felipedegodoy16)
